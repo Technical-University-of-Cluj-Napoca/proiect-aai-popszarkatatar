@@ -1,5 +1,6 @@
 langchain
 langchain-openai
+langchain-chroma
 langgraph
 chromadb
 pydantic
@@ -7,3 +8,4 @@ streamlit
 ragas
 pdfplumber
 python-dotenv
+datasets
