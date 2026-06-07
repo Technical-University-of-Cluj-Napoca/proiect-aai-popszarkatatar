@@ -2,7 +2,8 @@ import os
 import sys
 
 from dotenv import load_dotenv
-load_dotenv()
+from pathlib import Path
+load_dotenv(dotenv_path=Path(__file__).resolve().parents[1] / ".env")
 
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))

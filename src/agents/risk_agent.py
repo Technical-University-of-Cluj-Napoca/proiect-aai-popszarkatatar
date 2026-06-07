@@ -20,7 +20,9 @@ class RiskAssessmentAgent:
 
         self.llm = ChatOpenAI(
             model="gpt-4o-mini",
-            temperature=0
+            temperature=0,
+            request_timeout=20,
+            max_retries=1
         )
 
         self.parser = JsonOutputParser(

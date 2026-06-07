@@ -17,5 +17,8 @@ dependencies = [
     "python-dotenv",
     "streamlit",
     "langchain-google-vertexai>=3.2.3",
-    "ragas>=0.1.22"
+    "ragas>=0.1.22",
+    "ipython",
+    "notebook",
+    "matplotlib"
 ]

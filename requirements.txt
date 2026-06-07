@@ -9,3 +9,7 @@ ragas
 pdfplumber
 python-dotenv
 datasets
+langchain-community
+matplotlib
+notebook
+ipython

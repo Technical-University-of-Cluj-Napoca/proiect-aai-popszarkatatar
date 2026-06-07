@@ -1,0 +1,13 @@
+services:
+  legal-contract-analyzer:
+    build: .
+    container_name: legal-contract-analyzer
+    ports:
+      - "8501:8501"
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+    volumes:
+      - ./vectorstore:/app/vectorstore
+      - ./data:/app/data
+      - ./logs:/app/logs
+    restart: unless-stopped

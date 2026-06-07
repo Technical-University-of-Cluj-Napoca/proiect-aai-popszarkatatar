@@ -8,14 +8,33 @@ from src.dtos import ClauseDTO, ClauseType, DocumentMetadataDTO, ParsedDocumentD
 
 class DocumentParserAgent:
     def __init__(self):
-        self.llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
-        self.metadata_parser = self.llm.with_structured_output(DocumentMetadataDTO)
+        self.llm = None
+        self.metadata_parser = None
+
+        if os.getenv("OPENAI_API_KEY"):
+            self.llm = ChatOpenAI(
+                model="gpt-4o-mini",
+                temperature=0,
+                request_timeout=20,
+                max_retries=1
+            )
+            self.metadata_parser = self.llm.with_structured_output(DocumentMetadataDTO)
+
         self.clause_pattern = re.compile(r"^\d+\.\d+")
 
     def _normalize(self, text: str) -> str:
         return "".join(c for c in unicodedata.normalize("NFD", text.lower()) if unicodedata.category(c) != "Mn")
 
     def _extract_metadata(self, text: str) -> DocumentMetadataDTO:
+        if not self.metadata_parser:
+            return DocumentMetadataDTO(
+                title="Contract analizat",
+                page_count=0,
+                parties=[],
+                value="",
+                duration=""
+            )
+
         prompt = f"Extrage metadatele contractului.\nText:\n{text}"
         return self.metadata_parser.invoke(prompt)
 
