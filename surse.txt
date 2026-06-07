@@ -1,0 +1,70 @@
+Documentarea Corpusului Juridic
+    GDPR
+Nume: Regulamentul (UE) 2016/679 (GDPR)
+Sursa: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0679
+Data accesarii: 03.06.2026
+
+Nume: Directiva (UE) 2016/680 (Protectia datelor in materie penala)
+Sursa: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0680
+Data accesarii: 03.06.2026
+
+Nume: Ghidul CEPD privind consimtamantul in temeiul GDPR
+Sursa: https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0058
+Data accesarii: 03.06.2026
+
+
+    Legi Romanesti
+Nume: Legea 98/2016 privind achizitiile publice
+Sursa: https://legislatie.just.ro/Public/DetaliiDocument/183887
+Data accesarii: 03.06.2026
+
+Nume: Codul Civil al Romaniei (Legea 287/2009)
+Sursa: https://legislatie.just.ro/Public/DetaliiDocument/109884
+Data accesarii: 03.06.2026
+
+
+    Contracte Publice
+Nume: Contract de executie lucrari
+Sursa: https://amccrs-pmb.ro/wp-content/uploads/2025/01/CONTRACT-EXECUTIE-LUCRARI-STIRBEI-VODA-NR_20-REST-DE-EXECUTAT.pdf
+Data accesarii: 03.06.2026
+
+Nume: Contract de prestari servicii de creare de continut multimedia
+Sursa: https://snspa.ro/wp-content/uploads/2019/05/A1_Model-Contract_servicii_creare-continut-online-Mind-the-Gap.pdf
+Data accesarii: 03.06.2026
+
+Nume: Contract de executie lucrari publice
+Sursa: https://www.primariacraiova.ro/ro/info/65366e086e642262433234.pdf
+Data accesarii: 03.06.2026
+
+
+    UNCITRAL (3 documente)
+Nume: Legea model UNCITRAL privind comertul electronic
+Sursa: https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_commerce
+Data accesarii: 03.06.2026
+
+Nume: Legea model UNCITRAL privind semnaturile electronice
+Sursa: https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_signatures
+Data accesarii: 03.06.2026
+
+Nume: Conventia Natiunilor Unite privind contractele de vanzare internationala de marfuri
+Sursa: https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg
+Data accesarii: 03.06.2026
+
+
+    Ghiduri ANPC (4 documente)
+Nume: Ghid practic pentru achizitia autovehiculelor
+Sursa: https://anpc.ro/wp-content/uploads/2025/02/Ghid-Practic-pentru-achizitia-autovehiculelor-functionale-second-hand.pdf
+Data accesarii: 03.06.2026
+
+Nume: Ghidul de buni practici - Servicii de cazare turistica
+Sursa:https://anpc.ro/wp-content/uploads/2024/04/Ghid-de-bune-practici-servicii-de-cazare-versiune-actualizata-2024-1.pdf
+Data accesarii: 03.06.2026
+
+
+Nume: Ghidul cumparatorului de bunuri din materiale pretioase si/sau pietre pretioase
+Sursa: https://anpc.ro/anpcftp/biju_150330.pdf
+Data accesarii: 03.06.2026
+
+Nume: Ghid practic al consumatorului pentru achizitia unui imobil de la dezvoltatorii imobiliari
+Sursa: https://anpc.ro/wp-content/uploads/2025/09/Ghidul-Practic-al-Consumatorului-pentru-achizitia-unui-imobil-de-la-Dezvoltatori-Imobiliari.pdf
+Data accesarii: 03.06.2026

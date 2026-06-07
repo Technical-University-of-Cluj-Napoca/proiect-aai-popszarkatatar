@@ -1,0 +1,11 @@
+LLM Context Precision (0.633)
+    -reflecta capacitatea sistemului de a recupera fragmente relevante din baza de date
+    - strategia de chunking aleasa este cat de cateficienta pentru structura documentelor juridice
+    - scorul este scazut de prezenta unor informatii care nu sunt direct legate de raspunsul specific, dar care apar in raspunsul oferit
+
+Faithfulness (0.688)
+    - modelul reuseste sa isi bazeze raspunsurile pe contextul extras,
+    avand un risc de halucinatie redus
+
+Answer Relevancy (0.619)
+    - penalizeaza raspunsurile prea lungi sau cele care contin formulari inutile

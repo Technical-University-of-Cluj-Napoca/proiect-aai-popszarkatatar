@@ -1,0 +1,24 @@
+[project]
+name = "legal-contract-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb",
+    "datasets",
+    "langchain>=0.3.0",
+    "langchain-community",
+    "langchain-chroma>=0.1.4",
+    "langchain-openai>=0.2.0",
+    "langgraph>=0.2.22",
+    "pdfplumber",
+    "pydantic",
+    "python-dotenv",
+    "streamlit",
+    "langchain-google-vertexai>=3.2.3",
+    "ragas>=0.1.22",
+    "ipython",
+    "notebook",
+    "matplotlib"
+]
